@@ -2,4 +2,4 @@
 
 [LingWo's website](https://gdoulingwo.github.io)
 
-[HaiYan's website](https://gdouhyteam.github.io/)
+[HaiYan's website](https://gdouhyteam.github.io/new/)
